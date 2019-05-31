@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.coding"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <!-- <uses-sdk -->
+    <!-- android:minSdkVersion="8" -->
+    <!-- android:targetSdkVersion="8" /> -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/schedule_1"
+        android:label="Today"
+        android:supportsRtl="true"
+        android:theme="@style/MyTheme1">
+        <activity
+            android:name=".FirstActivity"
+            android:label="Today">
+
+            <!-- //Toolbar的显示标题 -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Result" />
+        <activity android:name=".Weight" />
+        <activity android:name=".activity2"/>
+        <activity android:name=".activity1"/>
+        <activity android:name=".Log_in"/>
+        <activity android:name=".register"/>
+        <activity android:name=".activity3"/>
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".buttom_navigation_Activity"/>
+    </application>
+
+</manifest>

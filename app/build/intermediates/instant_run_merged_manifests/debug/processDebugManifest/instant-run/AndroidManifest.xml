@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.n551.mw"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="24" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- <uses-sdk -->
+    <!-- android:minSdkVersion="8" -->
+    <!-- android:targetSdkVersion="8" /> -->
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/schedule_1"
+        android:label="Today"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/MyTheme1" >
+        <activity
+            android:name="com.android.coding.FirstActivity"
+            android:label="Today" >
+
+            <!-- //Toolbar的显示标题 -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.android.coding.Result" />
+        <activity android:name="com.android.coding.Weight" />
+        <activity android:name="com.android.coding.activity2" />
+        <activity android:name="com.android.coding.activity1" />
+        <activity android:name="com.android.coding.Log_in" />
+        <activity android:name="com.android.coding.register" />
+        <activity android:name="com.android.coding.activity3" />
+        <activity android:name="com.android.coding.MainActivity" />
+        <activity android:name="com.android.coding.buttom_navigation_Activity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.n551.mw.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

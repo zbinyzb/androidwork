@@ -1,0 +1,4 @@
+#Thu May 30 23:35:02 CST 2019
+base.0=C\:\\Users\\zbin-\\Desktop\\android\\class_learn\\weight02\\02 Weight\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

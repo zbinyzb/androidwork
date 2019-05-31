@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0cf6578690bbd8d3d98d91630490e225\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5526ae5abb302c19e67d02aca1bc8206\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\transition-25.3.1.aar\50ae22a2b80bf16e126d95bcd235d794\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b26d528a51ce44b292304e46fb7ab607\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62d1022668519eeb9925fc64a401b2c7\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\94d42560e3c7f6f8b33376d51aeb1447\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08c603aa7bea6151068894b4e142b314\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\87c3b7908b6143d559b92708c11a735c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\13a40b3f794382b7cda7663e288905a3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\a44670fa7d07b34ef6b50faeeece824a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1ca11b0feebe4af3831842eaa8d0aad6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\726622d14f0fe4b4330e4fd669acd6c8\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:10:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0cf6578690bbd8d3d98d91630490e225\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0cf6578690bbd8d3d98d91630490e225\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5526ae5abb302c19e67d02aca1bc8206\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5526ae5abb302c19e67d02aca1bc8206\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\transition-25.3.1.aar\50ae22a2b80bf16e126d95bcd235d794\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\transition-25.3.1.aar\50ae22a2b80bf16e126d95bcd235d794\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b26d528a51ce44b292304e46fb7ab607\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b26d528a51ce44b292304e46fb7ab607\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\94d42560e3c7f6f8b33376d51aeb1447\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\94d42560e3c7f6f8b33376d51aeb1447\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08c603aa7bea6151068894b4e142b314\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08c603aa7bea6151068894b4e142b314\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\87c3b7908b6143d559b92708c11a735c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\87c3b7908b6143d559b92708c11a735c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\13a40b3f794382b7cda7663e288905a3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\13a40b3f794382b7cda7663e288905a3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\a44670fa7d07b34ef6b50faeeece824a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\a44670fa7d07b34ef6b50faeeece824a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1ca11b0feebe4af3831842eaa8d0aad6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1ca11b0feebe4af3831842eaa8d0aad6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\726622d14f0fe4b4330e4fd669acd6c8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\726622d14f0fe4b4330e4fd669acd6c8\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:13:9-30
+	android:icon
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:12:9-44
+	android:allowBackup
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.android.coding.FirstActivity
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:18:13-34
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:17:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.android.coding.Result
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:27:19-41
+activity#com.android.coding.Weight
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:28:19-41
+activity#com.android.coding.activity2
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:29:9-46
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:29:19-44
+activity#com.android.coding.activity1
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:30:9-46
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:30:19-44
+activity#com.android.coding.Log_in
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:31:9-43
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.android.coding.register
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:32:9-45
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:32:19-43
+activity#com.android.coding.activity3
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:33:9-46
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:33:19-44
+activity#com.android.coding.MainActivity
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:34:9-49
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:34:19-47
+activity#com.android.coding.buttom_navigation_Activity
+ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:35:9-63
+	android:name
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml:35:19-61
+uses-sdk
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0cf6578690bbd8d3d98d91630490e225\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0cf6578690bbd8d3d98d91630490e225\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5526ae5abb302c19e67d02aca1bc8206\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5526ae5abb302c19e67d02aca1bc8206\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\transition-25.3.1.aar\50ae22a2b80bf16e126d95bcd235d794\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\transition-25.3.1.aar\50ae22a2b80bf16e126d95bcd235d794\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b26d528a51ce44b292304e46fb7ab607\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b26d528a51ce44b292304e46fb7ab607\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62d1022668519eeb9925fc64a401b2c7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62d1022668519eeb9925fc64a401b2c7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\94d42560e3c7f6f8b33376d51aeb1447\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\94d42560e3c7f6f8b33376d51aeb1447\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08c603aa7bea6151068894b4e142b314\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08c603aa7bea6151068894b4e142b314\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\87c3b7908b6143d559b92708c11a735c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\87c3b7908b6143d559b92708c11a735c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\13a40b3f794382b7cda7663e288905a3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\13a40b3f794382b7cda7663e288905a3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\a44670fa7d07b34ef6b50faeeece824a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\a44670fa7d07b34ef6b50faeeece824a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1ca11b0feebe4af3831842eaa8d0aad6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1ca11b0feebe4af3831842eaa8d0aad6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\726622d14f0fe4b4330e4fd669acd6c8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\726622d14f0fe4b4330e4fd669acd6c8\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zbin-\Desktop\android\class_learn\weight02\02 Weight\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5526ae5abb302c19e67d02aca1bc8206\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5526ae5abb302c19e67d02aca1bc8206\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\transition-25.3.1.aar\50ae22a2b80bf16e126d95bcd235d794\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\transition-25.3.1.aar\50ae22a2b80bf16e126d95bcd235d794\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b26d528a51ce44b292304e46fb7ab607\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b26d528a51ce44b292304e46fb7ab607\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62d1022668519eeb9925fc64a401b2c7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62d1022668519eeb9925fc64a401b2c7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\94d42560e3c7f6f8b33376d51aeb1447\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\94d42560e3c7f6f8b33376d51aeb1447\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08c603aa7bea6151068894b4e142b314\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08c603aa7bea6151068894b4e142b314\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\87c3b7908b6143d559b92708c11a735c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\87c3b7908b6143d559b92708c11a735c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\13a40b3f794382b7cda7663e288905a3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\13a40b3f794382b7cda7663e288905a3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\a44670fa7d07b34ef6b50faeeece824a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\a44670fa7d07b34ef6b50faeeece824a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1ca11b0feebe4af3831842eaa8d0aad6\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1ca11b0feebe4af3831842eaa8d0aad6\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\726622d14f0fe4b4330e4fd669acd6c8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\726622d14f0fe4b4330e4fd669acd6c8\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\zbin-\.gradle\caches\4.6\caches\transforms-1\files-1.1\design-25.3.1.aar\1aaaba5358ec9985551268d6555416e2\AndroidManifest.xml:26:9-47
